@@ -1,6 +1,5 @@
 Task 2: Stock Prediction - Take stock price of any company you want and predicts its price by using LSTM. Use only Jupyter notebook code.
 
-Certainly! Let's break down the code and its purpose step by step:
 
 1. **Import Necessary Libraries**:
    - Imports essential libraries such as pandas, numpy, matplotlib, MinMaxScaler, and TensorFlow for building and training the LSTM model.
